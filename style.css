@@ -148,9 +148,10 @@ body{
 		border-radius: 20px;
 		margin-top: 60px;
 	height:auto;
-	width:73%;
+	width:auto;
 	padding-top:20px;
-margin-left: 590px;
+margin-left: 500px;
+margin-right:8%;
 	display:flex;
 	flex-wrap: wrap;
 	padding-left:2%;
@@ -161,7 +162,8 @@ margin-left: 590px;
 
 					.newsselection{ 
 						position: fixed;
-						left:5%;
+						left: 2%;
+
 						padding: 20px;
 					background-color: #F9F5FF;
 
@@ -193,6 +195,8 @@ margin-left: 590px;
 			margin-right: 80px;
 
 		}
+
+
 
 					.button3{
 						width:100%;

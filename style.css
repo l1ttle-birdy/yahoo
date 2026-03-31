@@ -147,7 +147,7 @@ body{
 		background-color: #F9F5FF;
 		border-radius: 20px;
 		margin-top: 60px;
-	height:81vh;
+	height:auto;
 	width:73%;
 	padding-top:20px;
 margin-left: 590px;
@@ -161,8 +161,7 @@ margin-left: 590px;
 
 					.newsselection{ 
 						position: fixed;
-						margin-top:40%;
-						margin-left: 20%;
+						left:5%;
 						padding: 20px;
 					background-color: #F9F5FF;
 

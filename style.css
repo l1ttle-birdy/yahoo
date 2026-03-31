@@ -161,7 +161,8 @@ margin-left: 590px;
 
 					.newsselection{ 
 						position: fixed;
-						margin: 50% 20% 10% 20%;
+						margin-top:40%;
+						margin-left: 20%;
 						padding: 20px;
 					background-color: #F9F5FF;
 
